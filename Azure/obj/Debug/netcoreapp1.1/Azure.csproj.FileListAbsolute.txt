@@ -1,0 +1,9 @@
+C:\Storage\ASPCore\Azure\Azure\Azure\bin\Debug\netcoreapp1.1\Azure.deps.json
+C:\Storage\ASPCore\Azure\Azure\Azure\bin\Debug\netcoreapp1.1\Azure.runtimeconfig.json
+C:\Storage\ASPCore\Azure\Azure\Azure\bin\Debug\netcoreapp1.1\Azure.runtimeconfig.dev.json
+C:\Storage\ASPCore\Azure\Azure\Azure\bin\Debug\netcoreapp1.1\Azure.dll
+C:\Storage\ASPCore\Azure\Azure\Azure\obj\Debug\netcoreapp1.1\Azure.csprojResolveAssemblyReference.cache
+C:\Storage\ASPCore\Azure\Azure\Azure\obj\Debug\netcoreapp1.1\Azure.AssemblyInfo.cs
+C:\Storage\ASPCore\Azure\Azure\Azure\bin\Debug\netcoreapp1.1\Azure.pdb
+C:\Storage\ASPCore\Azure\Azure\Azure\obj\Debug\netcoreapp1.1\Azure.dll
+C:\Storage\ASPCore\Azure\Azure\Azure\obj\Debug\netcoreapp1.1\Azure.pdb
